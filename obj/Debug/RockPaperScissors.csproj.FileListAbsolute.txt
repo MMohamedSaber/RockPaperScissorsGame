@@ -1,0 +1,13 @@
+C:\Users\moham\RockPaperScissorsProject\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\moham\RockPaperScissorsProject\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\moham\RockPaperScissorsProject\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\moham\RockPaperScissorsProject\RockPaperScissors\bin\Debug\Guna.UI2.dll
+C:\Users\moham\RockPaperScissorsProject\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.AssemblyReference.cache
+C:\Users\moham\RockPaperScissorsProject\RockPaperScissors\obj\Debug\RockPaperScissors.Form1.resources
+C:\Users\moham\RockPaperScissorsProject\RockPaperScissors\obj\Debug\RockPaperScissors.Properties.Resources.resources
+C:\Users\moham\RockPaperScissorsProject\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.GenerateResource.cache
+C:\Users\moham\RockPaperScissorsProject\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\moham\RockPaperScissorsProject\RockPaperScissors\obj\Debug\RockPape.65892C9A.Up2Date
+C:\Users\moham\RockPaperScissorsProject\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\moham\RockPaperScissorsProject\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+C:\Users\moham\RockPaperScissorsProject\RockPaperScissors\obj\Debug\RockPaperScissors.PlayingForm.resources
